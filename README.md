@@ -8,15 +8,15 @@
  ## Sobre el proyecto
  Pagina de registros de formulario para la Universidad El Bosque 
  
-  ## Pagina principal 
+ ## Pagina principal 
  ![image](https://user-images.githubusercontent.com/105802946/233763741-9ca9dc9e-75a0-4423-b6c9-3f86faa11706.png)
-##Formulario de Inscripciones
+## Formulario de Inscripciones
 ![image](https://user-images.githubusercontent.com/105802946/233763771-1bace7f9-2033-48b3-873b-c6fc411794c0.png)
-##Eliminar inscripcion por id
+## Eliminar inscripcion por id
 ![image](https://user-images.githubusercontent.com/105802946/233763785-4a1c593e-48c0-425a-9fbd-801dd6de1b36.png)
 ## Actualizar inscripcion
 ![image](https://user-images.githubusercontent.com/105802946/233763815-fcea535e-2762-4d75-a1ac-f6e5a903a925.png)
-##Listar todas las inscripciones
+## Listar todas las inscripciones
     ![image](https://user-images.githubusercontent.com/105802946/233763834-4f5e6f3d-a739-41d6-9e51-7fadf18b71f5.png)
           
 ### Built with
