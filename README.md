@@ -1,12 +1,9 @@
 <img src="https://artemisa.unbosque.edu.co/assets/ejemplos/img/logo_blanco.png" width="200"> 
 
 # Proyecto JSP - Corte 2
-
-<img src="https://lh3.googleusercontent.com/NzQU8B1yRaw6vxsdwS6lrqFw9B8A3d18lX5xTwW67uXqLSc7vO_uK-rWs2jdfbV-2n8>
- El proyecto fue creado en JSP y realiza lo siguiente:
  
  ## Sobre el proyecto
- Pagina de registros de formulario para la Universidad El Bosque 
+ Pagina de registros de inscripciones para la Universidad El Bosque 
  
  ## Pagina principal 
  ![image](https://user-images.githubusercontent.com/105802946/233763741-9ca9dc9e-75a0-4423-b6c9-3f86faa11706.png)
