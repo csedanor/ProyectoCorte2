@@ -6,9 +6,9 @@
 
 Integrantes:
 
-Catalina Sedano Rincon
-Valentina Becerra Sastoque
-Ricardo De León Paz
+- Catalina Sedano Rincon
+- Valentina Becerra Sastoque
+- Ricardo De León Paz
 
  El proyecto fue creado en JSP y realiza lo siguiente:
  
