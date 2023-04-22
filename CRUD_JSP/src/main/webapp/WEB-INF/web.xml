@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>CRUD_JSP</display-name>
+  <description>
+		Proyecto Final Inscripciones UEB
+	</description>
+  <distributable/>
+  <servlet>
+    <description></description>
+    <display-name>InscripcionServlet</display-name>
+    <servlet-name>InscripcionServlet</servlet-name>
+    <servlet-class>co.edu.unbosque.controller.InscripcionServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>InscripcionServlet</servlet-name>
+    <url-pattern>/InscripcionServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>EliminarServlet</display-name>
+    <servlet-name>EliminarServlet</servlet-name>
+    <servlet-class>co.edu.unbosque.controller.EliminarServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>EliminarServlet</servlet-name>
+    <url-pattern>/EliminarServlet/</url-pattern>
+  </servlet-mapping>
+    <servlet>
+    <description></description>
+    <display-name>ActualizarServlet</display-name>
+    <servlet-name>ActualizarServlet</servlet-name>
+    <servlet-class>co.edu.unbosque.controller.ActualizarServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ActualizarServlet</servlet-name>
+    <url-pattern>/ActualizarServlet/</url-pattern>
+  </servlet-mapping>
+   <servlet>
+    <description></description>
+    <display-name>ListarServlet</display-name>
+    <servlet-name>ListarServlet</servlet-name>
+    <servlet-class>co.edu.unbosque.controller.ListarServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ListarServlet</servlet-name>
+    <url-pattern>/ListarServlet/</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>
